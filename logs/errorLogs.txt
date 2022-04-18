@@ -1,0 +1,45 @@
+2022-04-08	20:05:08	f22c85c6-9bfa-47e7-8fd9-e29486baf2e3	 Error:Not Allowed by Cors
+2022-04-08	20:08:12	8aa69134-5954-44ef-bb50-6bda1198bbbd	 Error:Not Allowed by Cors
+2022-04-08	20:11:47	fc5f1df9-0feb-4426-93dc-d90af48738a9	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:11:56	05e0b814-5087-4462-8219-2fc8c0d35afe	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:12:07	999f2117-1afd-4428-87af-1217237147e0	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:12:39	cc866eff-fced-4af1-88f5-dc7d1bb1b719	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:12:55	0abfdf14-38e7-4bb7-af08-b6c4145c9cb3	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:12:56	98e8d34f-1148-40ff-8973-50e2056718de	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:13:41	f6ab5d36-e5be-403d-aed4-e8aaa20bd8f8	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:13:49	04e5f9da-1f58-4516-bec4-4507e84f5feb	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:13:53	b476509c-80bb-4a11-85de-ecb68fac8b4c	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:14:09	e3d7335d-8f0e-4359-8513-047006208475	 Error:Cannot set headers after they are sent to the client
+2022-04-08	20:14:16	a2a4ad78-ea0f-4de5-8e36-a41450674c19	 Error:Cannot set headers after they are sent to the client
+2022-04-09	12:12:35	d2cdc31a-0dc4-43d4-9bf2-582aa13e96e3	 TypeError:req.json is not a function
+2022-04-09	12:16:20	e056151f-9c36-42cf-85c9-f76ba288d786	 TypeError:req.json is not a function
+2022-04-09	12:16:57	241fbe49-9fc7-454c-8aa5-cf1fb2843c77	 SyntaxError:Unexpected token } in JSON at position 27
+2022-04-09	12:17:00	f410b3d8-fee3-4713-9fe6-f3487e8f7206	 SyntaxError:Unexpected token } in JSON at position 28
+2022-04-09	13:06:54	21a67c7e-687f-455c-923b-d4e58c81c501	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:07:16	dd2e6c79-15e0-40da-b211-a6672212156b	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:05	2bf1db18-42c9-445d-9dc3-d2348390f8da	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:17	65889e6e-4158-4630-8432-6faec337ed4a	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:36	8d29833e-32ce-4594-9335-c592a262f807	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:37	4659d248-38fb-422c-8cf1-3e141a530297	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:37	804d8fc7-0d72-4359-9340-dc1c93d74c6c	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:37	40811944-1908-4f84-91b4-475db2f0e2f1	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:37	46e2f234-cbaa-4b63-a6f8-0fcfb08dcb16	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:38	17e41dcb-5fc5-4946-81e5-9ba2339473ec	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:38	a2dbace0-a77b-4cd0-8325-15d1086e7432	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:38	76708d65-7a63-437f-8f37-28d31359c79a	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:38	c73f8090-380e-4a3e-8278-7f495f45356c	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:08:54	b490e8be-538a-4047-be0c-ce92d7bddbfd	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:09:28	40ae3a7a-b76e-4281-bfcf-2ab3574b77dd	 SyntaxError:Unexpected token . in JSON at position 43
+2022-04-09	13:37:36	92eda02d-5229-433d-ac14-c2d39e5584d4	 TypeError:Cannot set properties of undefined (setting 'firstName')
+2022-04-17	13:09:26	cdac017c-1d1c-4729-97ec-c5c02dbe75b1	 ReferenceError:Cannot access 'cookies' before initialization
+2022-04-17	15:48:56	279337b0-cf61-475e-8fae-efed770cc209	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:50:17	1ce79197-6ee4-42d6-8346-f8105834bb08	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:51:11	4096e8fb-f22d-45b8-aad9-487d95d831c6	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:51:28	8acccea3-e11d-42f3-ad92-8225d45720c1	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:51:55	960601d0-6c36-43fe-8208-edfddf3aa2d0	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:52:21	28d8b1bc-e201-471f-9e7d-28b27db082d4	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:52:40	941f859d-4760-452f-a0d7-1e8a1b384b1e	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:52:45	dc17db27-b684-4d2f-b2b9-4fb392fb946d	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:53:09	0b820663-6800-44b1-b8c5-d8507abd533f	 SyntaxError:Unexpected token / in JSON at position 0
+2022-04-17	15:58:51	d614e179-938c-4286-b9ba-feea69719ad5	 Error:Cannot set headers after they are sent to the client
+2022-04-17	16:06:40	86176d9b-5431-4021-b9d0-2e696d38e7e7	 Error:Cannot set headers after they are sent to the client

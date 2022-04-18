@@ -1,0 +1,25 @@
+[
+  {
+    "username": "sauteet",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$ECX5nJbSNSr.hpvFk9O7HuqgJwqQmSvLUMGqTRV6Zt3mOY2ceixza"
+  },
+  {
+    "username": "user2",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "password": "$2b$10$H/0wFVbyUCntQw.VlNv73OmmqyWeSgbigYswq6qHDOyADPHVhnHbu",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIyIiwiaWF0IjoxNjUwMTk5NjY5LCJleHAiOjE2NTAyODYwNjl9.3rNXX5TrQyaythmFSfjvIbqrtEQ_7RhyRY89xT2ym8w"
+  },
+  {
+    "username": "peter",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+    "password": "$2b$10$xDaC/4nzChjhPoVZWGHIbufX577PB9ptHnnWROwwQMhw6vHzHWsF2",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InBldGVyIiwiaWF0IjoxNjUwMjAwOTU1LCJleHAiOjE2NTAyODczNTV9.r1I9kcj2kBmksZ0SbEzQ7wBwtgb1IW1Lx4Z5ua2YaZU"
+  },
+  {
+    "username": "user1",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$TvuBrRUAX7xnLDYuYh9R2ushtZQ3Q5I7nmhy5YdcZPjvAA5Q6LM6S",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwiaWF0IjoxNjUwMjAyNTM5LCJleHAiOjE2NTAyODg5Mzl9._DlUbc98tUdpTPNhEcsLM-V4OwLqcfLhZ-WMxPt532E"
+  }
+]
